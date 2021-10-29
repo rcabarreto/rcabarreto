@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a few mobile apps
 - 🌱 I’m currently learning TypeScript, Golang and Github Actions
 - 👯 I’m looking to collaborate on fun projects
-- ⚡ Fun fact: Born in Brazil currently living in Germany
+- ⚡ Fun fact: Born in 🇧🇷 currently living in 🇩🇪
 
 ### Connect with me:
 
