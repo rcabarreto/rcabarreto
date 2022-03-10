@@ -1,6 +1,6 @@
-## Hi there, I'm Rodrigo 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/rcabarreto/rcabarreto/master/wave.gif" width="30px">
 
-### Husband, Father, Brewer. Not always in that order.
+### I'm Rodrigo! Husband, Father, Brewer. Not always in that order.
 
 - 🔭 I’m currently working on a few mobile apps
 - 🌱 I’m learning TypeScript, Golang and Github Actions
@@ -32,6 +32,17 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/rcabarreto/rcabarreto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcabarreto&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/rcabarreto/rcabarreto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcabarreto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 <br />
 <br />
