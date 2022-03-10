@@ -1,10 +1,11 @@
-### Hi there, I'm Rodrigo 👋
-Husband, Father and Web Developer
+## Hi there, I'm Rodrigo 👋
+
+### Husband, Father, Brewer. Not always in that order.
 
 - 🔭 I’m currently working on a few mobile apps
-- 🌱 I’m currently learning TypeScript, Golang and Github Actions
-- 👯 I’m looking to collaborate on fun projects
-- ⚡ Fun fact: Born in 🇧🇷 currently living in 🇩🇪
+- 🌱 I’m learning TypeScript, Golang and Github Actions
+- 👯 I’m open to collaborate on fun projects
+- ⚡ Fun fact: Born in 🇧🇷 living in 🇩🇪
 
 ### Connect with me:
 
