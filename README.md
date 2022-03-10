@@ -2,12 +2,14 @@
 
 ### I'm Rodrigo! Husband, Father, Brewer. Not always in that order.
 
+- 💼 Software Engineer at [Crewmeister](http://crewmeister.com/)
+- ❤️ Love JavaScript, React and Node.
 - 🔭 I’m currently working on a few mobile apps
 - 🌱 I’m learning TypeScript, Golang and Github Actions
 - 👯 I’m open to collaborate on fun projects
 - ⚡ Fun fact: Born in 🇧🇷 living in 🇩🇪
 
-### Connect with me:
+## 📭 Connect with me:
 
 [<img align="left" alt="rodrigobarreto.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -16,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+## 🛠 Technologies & Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -34,6 +36,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+## ✒️ Recent Posts
 
 ## &#x1f4c8; GitHub Stats
 
