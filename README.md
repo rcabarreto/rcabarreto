@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/rcabarreto/rcabarreto/master/wave.gif" width="30px">
 
-### I'm Rodrigo! Husband, Father, Brewer. Not always in that order.
+## I'm Rodrigo! Husband, Father, Brewer. Not always in that order.
 
 - 💼 Software Engineer at [Crewmeister](http://crewmeister.com/)
 - ❤️ Love JavaScript, React and Node.
@@ -36,8 +36,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
-## ✒️ Recent Posts
 
 ## &#x1f4c8; GitHub Stats
 
