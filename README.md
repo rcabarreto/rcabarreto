@@ -2,8 +2,8 @@
 
 ## I'm Rodrigo! Husband, Father, Brewer. Not always in that order.
 
-- 💼 Software Engineer at [Crewmeister](http://crewmeister.com/)
-- ❤️ Love JavaScript, React and Node.
+- 💼 Software Engineer at [Kinexon](https://kinexon.com/)
+- ❤️ Love JavaScript, React, React Native and Node.
 - 🔭 I’m currently working on a few mobile apps
 - 🌱 I’m learning TypeScript, Golang and Github Actions
 - 👯 I’m open to collaborate on fun projects
