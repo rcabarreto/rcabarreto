@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on a few mobile apps
 - 🌱 I’m learning TypeScript, Golang and Github Actions
 - 👯 I’m open to collaborate on fun projects
+- Hobbies are: travel, books, coding and playing with my daughter.
 - ⚡ Fun fact: Born in 🇧🇷 living in 🇩🇪
 
 <br />
