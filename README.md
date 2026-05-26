@@ -14,20 +14,11 @@
 - 🔭 Currently working on mobile applications
 - 🌱 Learning **Go** to expand my backend skills
 - 🤝 Open to collaborate on interesting projects
-- 🎯 Interests: Travel, books, coding, and spending quality time with my daughter
+- 🎯 Interests: Travel, books, coding, and spending quality time with my family
 - ⚡ Always curious, always learning
 
 <br />
 <br />
-
----
-
-### 🌐 Connect with Me
-
-[![Website](https://img.shields.io/badge/Website-rodrigobarreto.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)][website]
-[![Twitter](https://img.shields.io/badge/Twitter-@rcabarreto-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rcabarreto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Instagram](https://img.shields.io/badge/Instagram-@rcabarreto-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 ---
 
